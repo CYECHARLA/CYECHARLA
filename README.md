@@ -5,7 +5,6 @@
 📧 [chalamnaidu1122@gmail.com](mailto:chalamnaidu1122@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/chalam-naidu-yecharla-235603243/) | 🔗 [GitHub](https://github.com/CYECHARLA)  
 
-![Developer Banner](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
@@ -80,5 +79,3 @@ I am a passionate **Software Engineer** with 3+ years of experience in **full-st
 
 ---
 
-## 💡 **Technologies I Work With**  
-![Technologies](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
