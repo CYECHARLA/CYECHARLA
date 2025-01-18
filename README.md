@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Engineer | Cloud Enthusiast | AI/ML Practitioner**  
 📍 Maryville, Missouri, USA  
-📧 [chalamnaidu1122@gmail.com](mailto:chalamnaidu1122@gmail.com) | 📞 +1-660-528-8838  
+📧 [chalamnaidu1122@gmail.com](mailto:chalamnaidu1122@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/chalam-naidu-yecharla-235603243/) | 🔗 [GitHub](https://github.com/CYECHARLA)  
 
 ---
