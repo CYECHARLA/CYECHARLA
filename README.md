@@ -1,9 +1,7 @@
 # 🌟 Chalam Naidu Yecharla
 
 👨‍💻 **Software Engineer | Cloud Enthusiast | AI/ML Practitioner**  
-📍 Maryville, Missouri, USA  
-📧 [chalamnaidu1122@gmail.com](mailto:chalamnaidu1122@gmail.com) 
-🔗 [LinkedIn](https://www.linkedin.com/in/chalam-naidu-yecharla-235603243/) | 🔗 [GitHub](https://github.com/CYECHARLA)  
+
 
 
 ---
@@ -32,14 +30,7 @@ I am a passionate **Software Engineer** with 3+ years of experience in **full-st
 
 ---
 
-## 💼 **Professional Experience**
 
-### **DXC Technology** *(Jun 2021 – Aug 2023)*  
-**Software Engineer**  
-- Designed and implemented backend solutions for insurance applications using **Java** and **Spring Boot**.
-- Migrated legacy systems to **cloud platforms** (AWS, Azure), improving scalability and reliability.
-- Achieved 99.9% uptime by resolving production issues proactively.
-- Automated recurring tasks, improving efficiency and reducing manual interventions.
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
